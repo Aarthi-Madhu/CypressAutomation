@@ -1,0 +1,8 @@
+{
+    "requestTimeout":6000,
+    "defaultCommandTimeout":10000,
+    "env":{
+
+        "url":"https://www.ottonova.de/"
+    }
+}

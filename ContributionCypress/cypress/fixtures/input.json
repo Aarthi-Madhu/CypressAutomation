@@ -1,0 +1,12 @@
+{
+  "berufsstatus": "Angestellt",
+  "bruttojahresgehalt": "70000",
+  "krankenversicherung": "Vollversicherung",
+  "versicherungStarten": "01.01.2022",
+  "versicherungExpected": "2022-01-01",
+  "Below18geburtstag": "01.01.2010",
+  "previousDateErr":"Leider kannst du dich erst ab 16 Jahren alleine versichern.",
+  "futureGeburtstag": "02.01.2022",
+  "futureDateErr":"Du bist in der Zukunft geboren? Bitte überprüfe deine Eingaben.",
+  "validGeburtstag": "17.12.1996"
+}
