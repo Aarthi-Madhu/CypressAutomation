@@ -17,6 +17,11 @@ Declared script in package.json. Run using *"npm run test"* else using *"node_mo
 
 ![image](https://user-images.githubusercontent.com/92584832/144383240-34f24085-3b79-4974-b795-078a37ef10f4.png)
 
+# Test Runner 
+
+![image](https://user-images.githubusercontent.com/92584832/144384251-958d2973-f233-43a6-9279-f4bdb41c467f.png)
+
+
 
 
 
